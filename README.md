@@ -46,7 +46,7 @@ Este projeto utiliza as seguintes tecnologias e ferramentas:
 3. Instale as dependências:
 
    ```bash
-  npm install or yarn install
+   npm install or yarn install
 
 
 4. Execute a aplicação em modo de desenvolvimento:
