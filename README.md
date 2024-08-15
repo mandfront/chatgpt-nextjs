@@ -46,13 +46,13 @@ Este projeto utiliza as seguintes tecnologias e ferramentas:
 3. Instale as dependências:
 
    ```bash
-  npm install
+  npm install or yarn install
 
 
 4. Execute a aplicação em modo de desenvolvimento:
 
    ```bash
-   npm run dev
+   npm run dev or yarn start
 
 
 5. Abra http://localhost:3000 para ver o projeto no navegador. 
