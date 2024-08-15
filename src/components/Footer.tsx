@@ -22,7 +22,7 @@ export const Footer = ({ disabled, onSendMessage }: Props) => {
           </a>
         </div>
         <div className="cursor-default pt-1 text-center text-xs text-gray-300">
-          Para fazer o uso é necessário cadastrar APIKey da OpenAI. 
+          Para fazer o uso é necessário cadastrar APIKey da OpenAI.
         </div>
       </div>
     </footer>
